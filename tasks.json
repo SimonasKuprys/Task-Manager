@@ -1,0 +1,10 @@
+[
+    {
+        "task": "Car",
+        "description": "Fix various issues with car",
+        "priority": "High",
+        "create_date": "2023-07-20",
+        "active": "True",
+        "task_id": 1
+    }
+]
