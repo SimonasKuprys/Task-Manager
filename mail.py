@@ -16,8 +16,8 @@ class Mail:
         mail = "samsonsonas@gmail.com"
         subject = "Tasks"
         
-        email_address = "tadas.tadinskas1989@gmail.com"
-        email_password = "owzvzgeucwryfaeg"
+        email_address = 
+        email_password = 
         if re.search(r"^[^@]+@[^@]+\.com$",mail):
             try:
                 # Create email
